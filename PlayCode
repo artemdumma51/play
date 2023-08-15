@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>шкільні предмети</title>
+</head>
+<body>
+<div class="card">
+    <img src="image/unnamed (2).jpg" alt="">
+    <div class="text">
+<h2>Gartic Phone</h2>
+<p>Зіпсований телефон</p>
+<a href="https://learning.ua/mova/">інтерактивна навчання</a>
+    </div>
+</div>
+<div class="card">
+    <img src="Gartic_Phone.jpg" alt="ГРА">
+    <div class="text">
+        <h2>Roblox</h2>
+        <p>Грай Онлайн</p>
+        <img src="roblox-1.jpg" alt="">
+
+</div>
+<div class="card"></div>
+<div class="card"></div>
+</body>
+</html>
+</body>
+</html>
